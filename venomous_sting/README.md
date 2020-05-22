@@ -1,7 +1,7 @@
 
 ##  如何导入项目？
 * 先通过git拉取代码  
-git clone https://gitee.com/haojiangbo/venomous_sting.git 
+git clone https://github.com/ysdxhsw/image-recognition.git
 * 导入idea或者eclise, 如何导入代码， [请自行百度 O(∩_∩)O~~]
 ## 如何运行项目
 
@@ -27,8 +27,4 @@ del 命令  del <clientId> 删除路由表中的某一条记录
 flush 命令  使 当前路由表 立即生效
 exit 退出当前客户端
 ```
-我已经在看云上写好了文档，
-请点击下方连接查看文档，
-详细配置会在此文档同步
-https://www.kancloud.cn/haojiangbo/stinger
- 
+
